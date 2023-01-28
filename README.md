@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richierich2020&label=Profile%20views&color=0e75b6&style=flat" alt="richierich2020" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfoliomy1.netlify.app/#pro](https://portfoliomy1.netlify.app/#pro)
 
-- 📫 How to reach me **abhijeetkamble9cd@gmail.com**
-
-- ⚡ Fun fact **I think I AM FUNNY**
+- # 💫 About Me:
+🔭  I’m currently working on something cool 😉<br>🌱  I'm currently learning Backend development<br>💬  Ask me about anything related to Javascript/React/Express<br>📫  How to reach me: @abhijeeetkamble<br>⚡  Fun fact: I ❤️ 🐶s 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
