@@ -11,7 +11,6 @@
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/abhijeet kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kamble" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/abhijeetkamble9cd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijeetkamble9cd" height="30" width="40" /></a>
 </p>
 
