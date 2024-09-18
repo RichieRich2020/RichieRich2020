@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  I'm currently learning Backend development<br>💬  Ask me about anything related to Javascript/React/Express<br>📫  How to reach me: abhijeeetkamble@gmail.com<br>⚡  Fun fact: I ❤️ 🐶s 
+🔭 Currently working on exciting projects in the tech world 😉<br>🌱 Engaged in learning Backend development<br>💬 Open to discussions about JavaScript, React, and Express<br>📫 Reach out via: abhijeeetkamble@gmail.com<br>⚡ Fun fact: Loves 🐶s
 
 # 🌐 Socials:
 <p align="left">
